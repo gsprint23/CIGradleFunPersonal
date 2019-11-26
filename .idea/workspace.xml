@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4be2738a-2c0c-4853-ac81-7d490fd32db5" name="Default Changelist" comment="" />
+    <list default="true" id="4be2738a-2c0c-4853-ac81-7d490fd32db5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/FractionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FractionTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +15,11 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UAmJA9ohVtDG7AblqIKfSJ79ln" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -43,5 +49,16 @@
       <updated>1574807699115</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

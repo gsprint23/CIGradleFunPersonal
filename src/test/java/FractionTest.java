@@ -14,7 +14,7 @@ public class FractionTest {
         Fraction f3 = new Fraction(1000000000, 0);
         Fraction f4 = new Fraction(-2, -4);
 
-        assertEquals("0/1", (f1.toString()));
+        assertEquals("0/10", (f1.toString()));
         assertEquals("0/1", (f2.toString()));
         assertEquals("0/1", (f3.toString()));
         assertEquals("1/2", (f4.toString()));
